@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ganesh Dasari</h1>
 <h3 align="center">A Data Analyst and Power BI Developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47062cx75mh72yukih7x14s0v4mh0z986wdu39za0y&ep=v_gifs_search&rid=giphy.gif&ct=g">
 
+- 🌱 I’m currently studying my Pg Diploma **in Big Data Analysis in Georgian College in Barrie, Ontario.**
+
+- 📫 How to reach me **gdasari17@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ganesh-dasari-a2b447118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ganesh-dasari-a2b447118" height="30" width="40" /></a>
