@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying my Pg Diploma **in Big Data Analysis in Georgian College in Barrie, Ontario.**
 
 - 📫 How to reach me **gdasari17@gmail.com**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ganesh-dasari-a2b447118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ganesh-dasari-a2b447118" height="30" width="40" /></a>
