@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying my Pg Diploma **in Big Data Analysis in Georgian College in Barrie, Ontario.**
 
-- 📫 How to reach me **gdasari17@gmail.com**
+- 📫 How to reach me **ganeshd0496@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
