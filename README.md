@@ -31,7 +31,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ganesh8465&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 # My Portfolio
-[<img width = "15%" src = "https://i.imgur.com/f11UWkp.jpg" />](#ML-Projects) [<img width = "15%" src = "https://i.imgur.com/K0baMn4.jpg" />](#Power BI and Tabealu Project) [<img width = "15%" src = "https://i.imgur.com/TlXAJ2o.jpg" />](#Advance-Excel-Dashboards)
 
 ## ML-Projects
 Click on the thumbnail to view to project file and code *  <br><br>
