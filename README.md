@@ -31,7 +31,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ganesh8465&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 # My Portfolio
-[<img width = "15%" src = "https://i.imgur.com/f11UWkp.jpg" />](#ML-Projects) [<img width = "15%" src = "https://i.imgur.com/K0baMn4.jpg" />](#Python-Projects) [<img width = "15%" src = "https://i.imgur.com/TlXAJ2o.jpg" />](#Advance-Excel-Dashboards)
+[<img width = "15%" src = "https://i.imgur.com/f11UWkp.jpg" />](#ML-Projects) [<img width = "15%" src = "https://i.imgur.com/K0baMn4.jpg" />](#Power BI and Tabealu Project) [<img width = "15%" src = "https://i.imgur.com/TlXAJ2o.jpg" />](#Advance-Excel-Dashboards)
 
 ## ML-Projects
 Click on the thumbnail to view to project file and code *  <br><br>
@@ -45,7 +45,7 @@ Click on the thumbnail to view to video of dashboards *<br><br>
 ## Database and EDA Projects
 Click on the thumbnail to view to project file and code *  <br><br>
 [<img width = "30%" src = "https://user-images.githubusercontent.com/60468999/275298036-9d223e40-5ff5-4a6d-a4f5-aef91d4305b0.jpg" />](https://github.com/ganesh8465/Database-Design-and-ETL-in-MySQL-)
-[<img width = "12%" src = "https://user-images.githubusercontent.com/60468999/275264372-65cd455d-ba17-44c6-8663-a2d1620b0b71.png" />](https://github.com/ganesh8465/EDA-with-SQL-and-Tableau-)
+[<img width = "30%" src = "https://user-images.githubusercontent.com/60468999/275264372-65cd455d-ba17-44c6-8663-a2d1620b0b71.png" />](https://github.com/ganesh8465/EDA-with-SQL-and-Tableau-)
 
 ## Advance Excel Dashboards
 Click on the thumbnail to view to video of dashboards *  <br><br>
